@@ -1,3 +1,3 @@
-# Daily Plan
+# Debugging Tools
 
 Content placeholder.

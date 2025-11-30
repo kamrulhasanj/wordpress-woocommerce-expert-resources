@@ -1,3 +1,3 @@
-# Daily Plan
+# Cdn Media
 
 Content placeholder.

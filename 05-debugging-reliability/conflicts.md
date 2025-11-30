@@ -1,3 +1,3 @@
-# Daily Plan
+# Conflicts
 
 Content placeholder.

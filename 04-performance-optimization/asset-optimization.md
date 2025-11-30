@@ -1,3 +1,3 @@
-# Daily Plan
+# Asset Optimization
 
 Content placeholder.

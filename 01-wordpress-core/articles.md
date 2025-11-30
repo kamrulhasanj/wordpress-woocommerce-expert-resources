@@ -1,3 +1,3 @@
-# Daily Plan
+# Articles
 
 Content placeholder.

@@ -1,3 +1,3 @@
-# Daily Plan
+# Javascript
 
 Content placeholder.

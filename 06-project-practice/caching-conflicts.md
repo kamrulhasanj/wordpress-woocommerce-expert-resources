@@ -1,3 +1,3 @@
-# Daily Plan
+# Caching Conflicts
 
 Content placeholder.

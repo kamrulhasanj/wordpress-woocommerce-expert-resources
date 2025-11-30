@@ -1,3 +1,3 @@
-# Daily Plan
+# Customizations
 
 Content placeholder.
