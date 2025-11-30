@@ -1,3 +1,3 @@
-# Hooks
+# WooCommerce Hooks & Filters
 
-Content placeholder.
+- [WooCommerce Hooks Cheatsheet](https://businessbloomer.com/woocommerce-visual-hook-guide/)

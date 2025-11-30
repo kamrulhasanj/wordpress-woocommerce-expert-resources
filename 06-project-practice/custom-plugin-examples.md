@@ -1,3 +1,5 @@
 # Custom Plugin Examples
 
-Content placeholder.
+- Add custom checkout fields
+- Create discount rules
+- Build custom product logic (e.g., subscriptions)

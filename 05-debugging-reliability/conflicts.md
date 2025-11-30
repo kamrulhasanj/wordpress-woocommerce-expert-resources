@@ -1,3 +1,3 @@
-# Conflicts
+# Debugging Conflicts
 
-Content placeholder.
+- [Solving Plugin & Theme Conflicts](https://kinsta.com/blog/fix-wordpress-plugin-conflict/)

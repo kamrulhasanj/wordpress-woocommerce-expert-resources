@@ -1,3 +1,5 @@
-# Store Rebuild
+# Store Rebuild Project
 
-Content placeholder.
+- Clone a live WooCommerce store locally
+- Optimize templates, database queries, and assets
+- Implement caching, CDN, and media offload

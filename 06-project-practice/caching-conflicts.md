@@ -1,3 +1,5 @@
-# Caching Conflicts
+# Caching Conflicts Practice
 
-Content placeholder.
+- Mix WP Rocket + Cloudflare + server cache
+- Identify and resolve caching issues
+- Test performance after resolving conflicts
